@@ -8,7 +8,7 @@ import org.jointheleague.graphical.robot.Robot;
 
 // This recipe draws a square using the Robot
 
-public class RobotSquare {
+public class  RobotSquare {
 	
     public static void main(String[] args){
  
